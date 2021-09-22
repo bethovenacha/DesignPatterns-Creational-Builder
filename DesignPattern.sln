@@ -3,9 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31229.75
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPattern", "DesignPattern\DesignPattern.csproj", "{73C3BB54-8AFD-45A1-875F-BAFD38533325}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DESIGN PATTERNS", "DESIGN PATTERNS", "{7BBAC001-1602-46E4-B021-899A6A187F19}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder", "Builder\Builder.csproj", "{604F2351-FFF0-4AE2-8B58-1C39F44B9D9E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,19 +11,16 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{73C3BB54-8AFD-45A1-875F-BAFD38533325}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{73C3BB54-8AFD-45A1-875F-BAFD38533325}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{73C3BB54-8AFD-45A1-875F-BAFD38533325}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{73C3BB54-8AFD-45A1-875F-BAFD38533325}.Release|Any CPU.Build.0 = Release|Any CPU
+		{604F2351-FFF0-4AE2-8B58-1C39F44B9D9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{604F2351-FFF0-4AE2-8B58-1C39F44B9D9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{604F2351-FFF0-4AE2-8B58-1C39F44B9D9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{604F2351-FFF0-4AE2-8B58-1C39F44B9D9E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{73C3BB54-8AFD-45A1-875F-BAFD38533325} = {7BBAC001-1602-46E4-B021-899A6A187F19}
-	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		EnterpriseLibraryConfigurationToolBinariesPathV6 = packages\EnterpriseLibrary.Common.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.Data.6.0.1304.0\lib\NET45
 		SolutionGuid = {88174B9E-E362-4C83-A6C3-ECFF48812282}
+		EnterpriseLibraryConfigurationToolBinariesPathV6 = packages\EnterpriseLibrary.Common.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.Data.6.0.1304.0\lib\NET45
 	EndGlobalSection
 EndGlobal

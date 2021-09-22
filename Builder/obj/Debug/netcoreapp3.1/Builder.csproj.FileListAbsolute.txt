@@ -1,0 +1,13 @@
+C:\Users\Ivy Acha\Desktop\digoy\PORTFOLIO\DesignPattern\Builder\bin\Debug\netcoreapp3.1\Builder.exe
+C:\Users\Ivy Acha\Desktop\digoy\PORTFOLIO\DesignPattern\Builder\bin\Debug\netcoreapp3.1\Builder.deps.json
+C:\Users\Ivy Acha\Desktop\digoy\PORTFOLIO\DesignPattern\Builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.json
+C:\Users\Ivy Acha\Desktop\digoy\PORTFOLIO\DesignPattern\Builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.dev.json
+C:\Users\Ivy Acha\Desktop\digoy\PORTFOLIO\DesignPattern\Builder\bin\Debug\netcoreapp3.1\Builder.dll
+C:\Users\Ivy Acha\Desktop\digoy\PORTFOLIO\DesignPattern\Builder\bin\Debug\netcoreapp3.1\Builder.pdb
+C:\Users\Ivy Acha\Desktop\digoy\PORTFOLIO\DesignPattern\Builder\obj\Debug\netcoreapp3.1\Builder.csproj.AssemblyReference.cache
+C:\Users\Ivy Acha\Desktop\digoy\PORTFOLIO\DesignPattern\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfoInputs.cache
+C:\Users\Ivy Acha\Desktop\digoy\PORTFOLIO\DesignPattern\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfo.cs
+C:\Users\Ivy Acha\Desktop\digoy\PORTFOLIO\DesignPattern\Builder\obj\Debug\netcoreapp3.1\Builder.csproj.CoreCompileInputs.cache
+C:\Users\Ivy Acha\Desktop\digoy\PORTFOLIO\DesignPattern\Builder\obj\Debug\netcoreapp3.1\Builder.dll
+C:\Users\Ivy Acha\Desktop\digoy\PORTFOLIO\DesignPattern\Builder\obj\Debug\netcoreapp3.1\Builder.pdb
+C:\Users\Ivy Acha\Desktop\digoy\PORTFOLIO\DesignPattern\Builder\obj\Debug\netcoreapp3.1\Builder.genruntimeconfig.cache
